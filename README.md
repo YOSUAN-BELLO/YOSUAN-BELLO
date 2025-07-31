@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm YOSUAN BELLO! 🚀  
 
-<!--
-**YOSUAN-BELLO/YOSUAN-BELLO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**QA ENGINEER | ANALISTA QA MANUAL | QA TESTER | QUALITY ASSURANCE ANALYST | ACCOUNTING ASSISTANT | ADMINISTRATIVE
+ASSISTANT**  
 
-Here are some ideas to get you started:
+🔍 Passionate about ensuring high-quality software through **functional and automated testing**, optimizing processes, and improving user experiences.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+![YOSUAN BELLO](https://github.com/user-attachments/assets/82216f00-0237-4749-b367-d6c9ee5dc466)
+
+# SOBRE MÍ. :📌 
+🔍 QA Manual y Automatizado
+Pruebas funcionales en aplicaciones web
+Aplicación de casos de prueba (test cases), informes de bugs y validación de requisitos.
+
+Automatización con herramientas básicas
+Pruebas automatizadas utilizando herramientas como Postman y scripts en línea de comandos.
+
+Validación de datos con SQL
+Consultas SQL para verificar integridad y consistencia en bases de datos relacionales.
+
+📊 Contabilidad & Administración
+Control y conciliación de transacciones contables
+Automatización y revisión de procesos financieros para asegurar exactitud en balances.
+
+Generación de informes contables
+Apoyo en la elaboración de reportes mensuales y declaraciones tributarias.
