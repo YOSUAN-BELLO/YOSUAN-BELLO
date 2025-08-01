@@ -64,5 +64,6 @@ A **task management web application** designed to streamline workflows and enhan
 ---
 
 ## 📢 Let's Connect!  
+http://www.linkedin.com/in/yosuan-bello
 
 
